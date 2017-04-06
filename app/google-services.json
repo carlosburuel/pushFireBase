@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231610445034",
+    "firebase_url": "https://pushfirebase-ba352.firebaseio.com",
+    "project_id": "pushfirebase-ba352",
+    "storage_bucket": "pushfirebase-ba352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231610445034:android:149fdcbf83e4be16",
+        "android_client_info": {
+          "package_name": "com.example.vancar.pushfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231610445034-3dfh77notanrv73ihv4re13p2cduqq2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DYqTFi7bZx4O_fL9qHFRCwMwQAjj6PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
